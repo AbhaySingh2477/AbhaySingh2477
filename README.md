@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABHAY-SINGH-CODER&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" height="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhaySingh2477&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" height="400px" />
 </p>
 
 
@@ -49,12 +49,11 @@
 
 <div align = "center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhaySingh2477/AbhaySingh2477/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhaySingh2477/AbhaySingh2477/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AbhaySingh2477/AbhaySingh2477/output/github-snake.svg" />
 </picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 <br><br>
-
